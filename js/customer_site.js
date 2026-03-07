@@ -14,6 +14,7 @@ const CUSTOMER_SITES = {
     yutu: {
         api: 'https://apiyutu.com/api.php/provide/vod',
         name: '玉兔',
+        adult: true,
     },
     xiaojizy: {
         api: 'https://api.xiaojizy.live/provide/vod?ac=list',

@@ -7,14 +7,6 @@ const CUSTOMER_SITES = {
         api: 'https://moduzy.com/api.php/provide/vod',
         name: '魔都资源',
     },
-    xiaomianyang: {
-        api: 'https://vs.okcdn100.top/api.php/provide/vod',
-        name: '小绵羊资源',
-    },
-    moDou: {
-        api: 'https://moduzy.com/api.php/provide/vod',
-        name: '魔都资源',
-    },
     mozhuazy: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',

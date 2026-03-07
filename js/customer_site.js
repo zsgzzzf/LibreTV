@@ -6,7 +6,11 @@ const CUSTOMER_SITES = {
     modu: {
         api: 'https://moduzy.com/api.php/provide/vod',
         name: '魔都资源',
-    }
+    },
+    mozhua: {
+        api: 'https://mozhuazy.com/api.php/provide/vod',
+        name: '魔爪资源',
+    },
 };
 
 // 调用全局方法合并

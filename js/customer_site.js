@@ -19,6 +19,7 @@ const CUSTOMER_SITES = {
     xiaojizy: {
         api: 'https://api.xiaojizy.live/provide/vod?ac=list',
         name: '小鸡资源',
+        adult: true,
     },
     rycj: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -27,6 +28,7 @@ const CUSTOMER_SITES = {
     fqzy: {
         api: 'https://fqzy.me/api.php/provide/vod',
         name: '番茄资源',
+        adult: true,
     },
     doubanzy: {
         api: 'https://doubanzy.cc/api.php/provide/vod',

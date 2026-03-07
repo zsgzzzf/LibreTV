@@ -3,7 +3,7 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     },
-    qiqi: {
+    modu: {
         api: 'https://moduzy.com/api.php/provide/vod',
         name: '魔都资源',
     }

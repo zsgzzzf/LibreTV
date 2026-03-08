@@ -39,8 +39,8 @@ const CUSTOMER_SITES = {
         name: '爱奇艺资源',
     },
     dyttzy: {
-        api: 'http://dyttzy5.tv/api.php/provide/vod',
-        name: '电影天堂',
+        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
+        name: '电影天堂【不可直接看】',
     },
     wolongzy: {
         api: 'http://wolongzy.cc/api.php/provide/vod',

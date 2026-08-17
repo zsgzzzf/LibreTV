@@ -31,8 +31,8 @@ const CUSTOMER_SITES = {
         adult: true,
     },
     doubanzy: {
-        api: 'https://doubanzy.cc/api.php/provide/vod',
-        name: '豆瓣资源',
+        api: 'http://jyzyapi.com/provide/vod',
+        name: '金鹰资源',
     },
     iqiyizy: {
         api: 'https://iqiyizyapi.com/api.php/provide/vod',

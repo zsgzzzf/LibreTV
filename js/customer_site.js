@@ -4,11 +4,11 @@ const CUSTOMER_SITES = {
         name: '魔都资源',
     },
     mozhuazy: {
-        api: 'http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8',
+        api: 'http://cj.lziapi.com/api.php/provide/vod',
         name: '量子資源',
     },
     maotai: {
-        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        api: 'http://hongniuzy2.com/api.php/provide/vod',
         name: '紅牛資源',
     },
     yutu: {

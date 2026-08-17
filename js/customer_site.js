@@ -43,8 +43,8 @@ const CUSTOMER_SITES = {
         name: '电影天堂【不可直接看】',
     },
     wolongzy: {
-        api: 'http://wolongzy.cc/api.php/provide/vod',
-        name: '卧龙资源',
+        api: 'http://api.ukuapi.com/api.php/provide/vod',
+        name: 'U酷资源',
     },
 };
 

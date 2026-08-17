@@ -8,8 +8,8 @@ const CUSTOMER_SITES = {
         name: '魔爪资源',
     },
     maotai: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod',
-        name: '茅台',
+        api: 'http://hongniuzy2.com/api.php/provide/vod/from/hnm3u8',
+        name: '紅牛資源',
     },
     yutu: {
         api: 'https://apiyutu.com/api.php/provide/vod',
